@@ -120,32 +120,32 @@ docker-compose up -d
 
 **ADAY PANELİ**
 
-![resim1](resim1.jpg)
+![resim1](Yazlab-main/resim1.jpg)
 
 
 **ADMİN PANELİ**
 
-![resim2](resim2.jpg)
+![resim2](Yazlab-main/resim2.jpg)
 
 
 **YÖNETİCİ PANELİ**
 
-![resim3](resim3.jpg)
+![resim3](Yazlab-main/resim3.jpg)
 
 
 **JÜRİ PANELİ**
 
-![resim4](resim4.jpg)
+![resim4](Yazlab-main/resim4.jpg)
 
 
 **ANA SAYFA**
 
-![resim5](resim5.jpg)
+![resim5](Yazlab-main/resim5.jpg)
 
 
 **GİRİŞ SAYFASI**
 
-![resim6](resim6.jpg)
+![resim6](Yazlab-main/resim6.jpg)
 
 
 
